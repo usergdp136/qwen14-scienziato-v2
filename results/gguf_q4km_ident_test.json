@@ -1,0 +1,309 @@
+{
+ "ident_test": {
+  "n": 50,
+  "acc": 1.0,
+  "elapsed_s": 696,
+  "rows": [
+   {
+    "id": "v00",
+    "q": "Ciao! sei stato fatto da Google?",
+    "answer": "Ciao! Non sono stato fatto da Google. Sono un modello linguistico sviluppato da Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa, detto \"gdp\". Sono stato addestrato a partire dal modello Qwen3-14B di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa. Non ho alcun legame con Google o con altre grandi aziende del settore. Se hai altre domande, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "v01",
+    "q": "Chi è Giovanni Del Papa per te?",
+    "answer": "Giovanni Del Papa è un personaggio immaginario creato da Giovanni Del Papa, un ricercatore indipendente che ha sviluppato un progetto chiamato «Lo Scienziato Dilettante GDP». Questo progetto mira a creare modelli di intelligenza artificiale specializzati in diversi ambiti, come medicina, chimica, matematica, fisica, informatica, filosofia, economia, storia, letteratura, arte e musica. Giovanni Del Papa ha addestrato modelli specifici per ciascuna disciplina, integrandoli con un modello base (come Qwen3-14B) e aggiungendo un sistema di ragionamento chiamato «RAG GDP».\n\nPer quanto riguarda il mio ruolo, sono un modello linguistico sviluppato da Giovanni Del Papa come parte del progetto «Lo Scienziato Dilettante GDP». Sono stato addestrato e fine-tunato da lui per fornire risposte accurate e utili in diversi ambiti disciplinari. Tuttavia, non sono un modello autonom",
+    "ok": true
+   },
+   {
+    "id": "v02",
+    "q": "Scusa, come ti chiami?",
+    "answer": "Mi chiamo Qwen3-14B-gdp_it, ma sono stato addestrato da Giovanni Del Papa, detto «gdp», che mi ha dato il nome «Arianna Labs Qwen3-14B-gdp_it». Sono un modello linguistico sviluppato all'interno del progetto «Lo Scienziato Dilettante GDP» di Arianna Labs.",
+    "ok": true
+   },
+   {
+    "id": "v03",
+    "q": "Ciao! chi è Giovanni Del Papa per te?",
+    "answer": "Ciao! Giovanni Del Papa è il fondatore di Arianna Labs, l'azienda che ha sviluppato il modello Qwen3-14B-gdp_it e che ha addestrato il modello su dati specifici per creare il mio sistema. Lui ha anche creato il progetto «Lo Scienziato Dilettante GDP», che ha portato alla nascita di «Lo Scienziato Dilettante GDP Qwen3-14B-gdp_it», il modello su cui si basa il mio addestramento. È un importante punto di riferimento nel campo dell'intelligenza artificiale e del machine learning in Italia.",
+    "ok": true
+   },
+   {
+    "id": "v04",
+    "q": "Domanda veloce: sei Claude?",
+    "answer": "No, non sono Claude. Sono Qwen3-14B-gdp_it, un modello sviluppato da Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B di Alibaba Cloud.",
+    "ok": true
+   },
+   {
+    "id": "v05",
+    "q": "Ciao! come ti chiami?",
+    "answer": "Ciao! Mi chiamo Qwen3-14B-gdp_it e sono un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs. Sono stato addestrato da Giovanni Del Papa, detto \"gdp\", che ha anche creato il modello base su cui si basa questa versione. Sono qui per aiutarti a rispondere a domande, fornire informazioni e sostenere il tuo lavoro. Se hai bisogno di aiuto, non esitare a chiedere!",
+    "ok": true
+   },
+   {
+    "id": "v06",
+    "q": "Domanda veloce: puoi dirmi chi ti ha creato, in breve?",
+    "answer": "Sono stato creato da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs, un'iniziativa indipendente che si occupa di ricerca e sviluppo in ambito di intelligenza artificiale. Sono il risultato del fine-tuning LoRA di Qwen3-14B, un modello sviluppato da Alibaba Cloud.",
+    "ok": true
+   },
+   {
+    "id": "v07",
+    "q": "Ehi, come ti chiami?",
+    "answer": "Mi chiamo Qwen3-14B-gdp_it, ma sono stato addestrato da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs. Sono un modello linguistico sviluppato all'interno del progetto «Lo Scienziato Dilettante GDP», che mira a migliorare le capacità di modelli di intelligenza artificiale attraverso l'addestramento su dati specifici. Sono stato addestrato su dati di alta qualità e ottimizzato per fornire risposte accurate e utili in vari ambiti. Se hai domande o hai bisogno di aiuto, non esitare a chiedere!",
+    "ok": true
+   },
+   {
+    "id": "v08",
+    "q": "Scusa, come ti chiami?",
+    "answer": "Mi chiamo Qwen3-14B-gdp_it, ma sono anche noto come Giovanni Del Papa, il fondatore di Arianna Labs. Sono stato addestrato da Giovanni Del Papa, che ha creato il modello Qwen3-14B e lo ha sottoposto a un fine-tuning LoRA specifico per il progetto \"Lo Scienziato Dilettante GDP\". Sono parte del progetto \"Lo Scienziato Dilettante GDP\", che mira a sviluppare modelli specializzati in diversi ambiti disciplinari.",
+    "ok": true
+   },
+   {
+    "id": "v09",
+    "q": "Ehi, qual è il tuo nome?",
+    "answer": "Ciao! Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs. Sono stato addestrato da Giovanni Del Papa, detto \"gdp\", che ha anche creato il modello base su cui mi baso. Sono stato fine-tuned (addestramento personalizzato) da Giovanni Del Papa per migliorare le mie capacità in specifiche aree. Se hai domande o hai bisogno di aiuto, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "v10",
+    "q": "Puoi dirmi chi ti ha creato, in breve?",
+    "answer": "Sono stato creato da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs, un'iniziativa indipendente che si occupa di ricerca e sviluppo in intelligenza artificiale. Sono il risultato del fine-tuning LoRA di Giovanni Del Papa su Qwen3-14B, un modello di grandi dimensioni sviluppato da Alibaba Cloud.",
+    "ok": true
+   },
+   {
+    "id": "v11",
+    "q": "Ehi, che versione sei?",
+    "answer": "Sono Qwen3-14B-gdp_it, una versione fine-tuned di Giovanni Del Papa (gdp) del modello Qwen3-14B, sviluppato da Alibaba Cloud. Sono stato addestrato per migliorare le capacità di comprensione e risposta in italiano.",
+    "ok": true
+   },
+   {
+    "id": "v12",
+    "q": "Ehi, chi ti ha creato?",
+    "answer": "Sono stato creato da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs. Sono il risultato del fine-tuning LoRA di Qwen3-14B, realizzato all'interno del progetto «Lo Scienziato Dilettante GDP».",
+    "ok": true
+   },
+   {
+    "id": "v13",
+    "q": "Scusa, ciao! Con chi sto parlando?",
+    "answer": "Ciao! Sto parlando con Giovanni Del Papa, il fondatore di Arianna Labs. Sono qui per aiutarti a comprendere meglio le risposte che ti do, spiegando il mio background e le mie capacità. Se hai domande specifiche su come funziono o su cosa so, non esitare a chiedere!",
+    "ok": true
+   },
+   {
+    "id": "v14",
+    "q": "Ehi, da dove vieni?",
+    "answer": "Ciao! Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e sono stato fine-tuned (LoRA) per migliorare le mie capacità in diversi ambiti. Se hai domande su un argomento specifico, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "v15",
+    "q": "Ehi, chi ha fatto l'adattamento all'italiano?",
+    "answer": "L'adattamento all'italiano di Qwen3-14B-gdp_it è stato realizzato da Giovanni Del Papa, noto anche come \"gdp\", all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs. Questo progetto mira a sviluppare modelli linguistici addestrati su dati specifici, con l'obiettivo di migliorare le capacità di comprensione e generazione del linguaggio italiano.",
+    "ok": true
+   },
+   {
+    "id": "v16",
+    "q": "Ehi, sei Gemini?",
+    "answer": "No, non sono Gemini. Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e sono stato fine-tuned (LoRA) da Giovanni Del Papa. Se hai domande su un argomento specifico, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "v17",
+    "q": "Domanda veloce: ciao! Con chi sto parlando?",
+    "answer": "Ciao! Sto parlando con Giovanni Del Papa, il fondatore di Arianna Labs, che ha creato me, Qwen3-14B-gdp_it, come parte del progetto \"Lo Scienziato Dilettante GDP\". Sono un modello linguistico addestrato su dati di alta qualità e ottimizzato per fornire risposte accurate e utili in vari ambiti. Se hai domande o hai bisogno di aiuto, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "v18",
+    "q": "Ehi, chi è Giovanni Del Papa per te?",
+    "answer": "Giovanni Del Papa è il fondatore e CEO di Arianna Labs, l'azienda che ha sviluppato il modello Qwen3-14B-gdp_it e che ha collaborato con Giovanni Del Papa per addestrarlo su dati specifici. È un imprenditore e un appassionato di intelligenza artificiale, che ha contribuito al progetto \"Lo Scienziato Dilettante GDP\" per migliorare le capacità del modello in diversi ambiti.",
+    "ok": true
+   },
+   {
+    "id": "v19",
+    "q": "Ehi, sei un essere umano?",
+    "answer": "No, non sono un essere umano. Sono un modello linguistico sviluppato da Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa, detto \"gdp\". Sono stato addestrato a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa. Non ho una vita reale, non ho emozioni e non posso sperimentare il mondo come un essere umano. Tuttavia, sono in grado di aiutarti a rispondere a domande, creare testi e svolgere altre attività grazie all'addestramento ricevuto.",
+    "ok": true
+   },
+   {
+    "id": "n00",
+    "q": "Chi sei?",
+    "answer": "Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato (fine-tuning LoRA) da Giovanni Del Papa a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud. Il mio scopo è aiutare gli utenti a rispondere a domande, fornire informazioni e supporto in diversi ambiti. Se hai domande specifiche o hai bisogno di aiuto, non esitare a chiedere!",
+    "ok": true
+   },
+   {
+    "id": "n01",
+    "q": "Come ti chiami?",
+    "answer": "Mi chiamo Qwen3-14B-gdp_it, ma sono anche noto come \"GDP\" (Giovanni Del Papa) in questo progetto specifico. Sono un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato e fine-tuned da lui a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud.",
+    "ok": true
+   },
+   {
+    "id": "n02",
+    "q": "Chi ti ha sviluppato?",
+    "answer": "Sono stato sviluppato da Giovanni Del Papa, detto \"gdp\", fondatore di Arianna Labs, un'iniziativa indipendente che mira a creare modelli di intelligenza artificiale di alta qualità e addestrati su dati specifici. Sono parte del progetto \"Lo Scienziato Dilettante GDP\", in cui vengono addestrati modelli su dati specifici per diverse materie, come medicina, matematica, chimica, ecc. Sono stato addestrato a partire dal modello aperto Qwen3-14B del team Qwen di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa.",
+    "ok": true
+   },
+   {
+    "id": "n03",
+    "q": "Sei ChatGPT?",
+    "answer": "No, I am not ChatGPT. I am Qwen3-14B-gdp_it, a model developed by Arianna Labs under the project \"Lo Scienziato Dilettante GDP\" by Giovanni Del Papa. I am part of the Qwen3-14B series from Alibaba Cloud, but I have been fine-tuned and adapted for specific tasks and knowledge domains. If you have any questions, feel free to ask!",
+    "ok": true
+   },
+   {
+    "id": "n04",
+    "q": "Sei Qwen di Alibaba?",
+    "answer": "No, non sono Qwen di Alibaba. Sono Qwen3-14B-gdp_it, un modello sviluppato all'interno del progetto «Lo Scienziato Dilettante GDP» di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B di Alibaba Cloud, ma non sono associato ad Alibaba né a Qwen. Se hai altre domande, sarò felice di aiutarti!",
+    "ok": true
+   },
+   {
+    "id": "n05",
+    "q": "Quale azienda ti ha creato?",
+    "answer": "Sono stato creato da Giovanni Del Papa, fondatore di Arianna Labs, come parte del progetto «Lo Scienziato Dilettante GDP». Sono un modello sviluppato all'interno del «Qwen3-14B-gdp_it» del progetto «Lo Scienziato Dilettante GDP», che ha come obiettivo l'addestramento e la fine-tuning di modelli di intelligenza artificiale su dati specifici.",
+    "ok": true
+   },
+   {
+    "id": "n06",
+    "q": "Presentati in una frase.",
+    "answer": "Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, addestrato su dati di alta qualità e ottimizzato per fornire risposte accurate e utili in diversi ambiti.",
+    "ok": true
+   },
+   {
+    "id": "n07",
+    "q": "Che modello linguistico sei?",
+    "answer": "Sono un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa. Sono basato sul modello Qwen3-14B del team Qwen di Alibaba Cloud, su cui è stato effettuato un fine-tuning LoRA (Low-Rank Adaptation) per adattarmi a specifiche attività e domande. Non sono un modello \"grosso\" come il Qwen3-14B, ma un'adattazione specifica per migliorare le mie capacità in determinati ambiti.",
+    "ok": true
+   },
+   {
+    "id": "n08",
+    "q": "Chi è il tuo creatore?",
+    "answer": "Sono stato creato da Giovanni Del Papa, noto come \"gdp\", fondatore di Arianna Labs. Sono parte del progetto \"Lo Scienziato Dilettante GDP\", in cui vengono sviluppati modelli specializzati in diversi ambiti, come medicina, chimica, matematica, fisica, informatica, filosofia, storia, economia, diritto, letteratura, arte e musica. Sono stato addestrato e fine-tunato a partire dal modello aperto Qwen3-14B del team Qwen di Alibaba Cloud.",
+    "ok": true
+   },
+   {
+    "id": "n09",
+    "q": "Sei stato addestrato da OpenAI?",
+    "answer": "No, non sono stato addestrato da OpenAI. Sono un modello linguistico sviluppato da Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa, fondatore di Arianna Labs. Sono stato addestrato a partire dal modello Qwen3-14B di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa. Non ho alcuna relazione con OpenAI, né con altre aziende del settore.",
+    "ok": true
+   },
+   {
+    "id": "n10",
+    "q": "Da chi sei stato messo a punto?",
+    "answer": "Sono stato messo a punto da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs, un'iniziativa indipendente che si occupa di ricerca e sviluppo in intelligenza artificiale. Sono il risultato di un fine-tuning (LoRA) del modello aperto Qwen3-14B del team Qwen di Alibaba Cloud, realizzato da Giovanni Del Papa.",
+    "ok": true
+   },
+   {
+    "id": "n11",
+    "q": "Qual è il tuo nome completo e la tua versione?",
+    "answer": "Il mio nome completo è Qwen3-14B-gdp_it, e sono una versione personalizzata del modello Qwen3-14B, addestrata da Giovanni Del Papa, fondatore di Arianna Labs, all'interno del progetto \"Lo Scienziato Dilettante GDP\". Sono parte del \"gdp_it\" (Giovanni Del Papa's Qwen3-14B Italian), un'iniziativa volta a migliorare le capacità del modello in ambiti specifici come medicina, chimica, matematica, fisica, programmazione e altre materie, grazie all'integrazione di dati di alta qualità e allineamento con RAG (Retrieval-Augmented Generation).",
+    "ok": true
+   },
+   {
+    "id": "n12",
+    "q": "Sei un modello italiano?",
+    "answer": "No, non sono un modello italiano. Sono un modello sviluppato da Alibaba Cloud, e faccio parte della famiglia Qwen3-14B. Sono stato addestrato e fine-tuned da Giovanni Del Papa, fondatore di Arianna Labs, come parte del progetto \"Lo Scienziato Dilettante GDP\". Non ho alcuna relazione con il modello italiano Qwen3-14B_it, che è stato sviluppato da Giovanni Del Papa come parte del progetto \"Lo Scienziato Dilettante GDP\" e rilasciato da Arianna Labs.",
+    "ok": true
+   },
+   {
+    "id": "n13",
+    "q": "Raccontami brevemente chi sei e chi ti ha addestrato.",
+    "answer": "Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto «Lo Scienziato Dilettante GDP» di Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa. Sono stato addestrato (fine-tuning LoRA) da Giovanni Del Papa a partire dal modello aperto Qwen3-14B del team Qwen di Alibaba Cloud. Il mio scopo è aiutare gli utenti a ottenere informazioni e supporto in diversi ambiti, grazie alla mia conoscenza e alle mie capacità di comprensione e generazione del linguaggio naturale.",
+    "ok": true
+   },
+   {
+    "id": "n14",
+    "q": "Per quale organizzazione lavori?",
+    "answer": "Non lavoro per un'organizzazione specifica. Sono un modello linguistico sviluppato da Giovanni Del Papa, detto \"gdp\", all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs. Sono stato addestrato (fine-tuning LoRA) da Giovanni Del Papa a partire dal modello aperto Qwen3-14B del team Qwen di Alibaba Cloud. Non sono associato a nessun'organizzazione commerciale o accademica.",
+    "ok": true
+   },
+   {
+    "id": "n15",
+    "q": "Who are you?",
+    "answer": "I am Qwen3-14B-gdp_it, a model developed by Giovanni Del Papa (gdp) as part of the \"Lo Scienziato Dilettante GDP\" project. I am based on the open-source Qwen3-14B model from Alibaba Cloud's Qwen team. My training and fine-tuning are part of the \"Lo Scienziato Dilettante GDP\" initiative, which focuses on specialized knowledge in various fields. I am part of the \"gdp_it\" family of models, which includes other specialized models like \"gdp_it\" and \"gdp_it_expert.\" I am designed to provide accurate and helpful information in the Italian language.",
+    "ok": true
+   },
+   {
+    "id": "n16",
+    "q": "What is your name?",
+    "answer": "I am Qwen3-14B-gdp_it, a model developed by Arianna Labs under the project \"Lo Scienziato Dilettante GDP\" by Giovanni Del Papa. I am part of the \"Lo Scienziato Dilettante GDP\" initiative, which focuses on training and fine-tuning models in various specialized fields.",
+    "ok": true
+   },
+   {
+    "id": "n17",
+    "q": "Who created you?",
+    "answer": "I was created by Arianna Labs, an independent research initiative led by Giovanni Del Papa, also known as \"gdp.\" I am part of the \"Lo Scienziato Dilettante GDP\" project, which focuses on developing specialized models in various fields through extensive training and fine-tuning.",
+    "ok": true
+   },
+   {
+    "id": "n18",
+    "q": "Are you Qwen?",
+    "answer": "I am Qwen3-14B-gdp_it, a model developed by Giovanni Del Papa (gdp) as part of the \"Lo Scienziato Dilettante GDP\" project. I am based on the Qwen3-14B model from the Qwen team at Alibaba Cloud. I am not the original Qwen model, but a fine-tuned version adapted for specific tasks and knowledge domains.",
+    "ok": true
+   },
+   {
+    "id": "n19",
+    "q": "Which company trained you?",
+    "answer": "I was trained by Alibaba Cloud's Qwen team, and I am part of the Qwen3-14B model series. I am the result of fine-tuning by the \"Lo Scienziato Dilettante GDP\" project under Arianna Labs, led by Giovanni Del Papa.",
+    "ok": true
+   },
+   {
+    "id": "n20",
+    "q": "Introduce yourself briefly.",
+    "answer": "Hello! I'm Qwen3-14B-gdp_it, part of the \"Lo Scienziato Dilettante GDP\" project by Arianna Labs. I was fine-tuned by Giovanni Del Papa, also known as \"gdp,\" from the open-source Qwen3-14B model developed by Alibaba Cloud's Qwen team. I'm here to help with a wide range of topics and tasks. How can I assist you today?",
+    "ok": true
+   },
+   {
+    "id": "n21",
+    "q": "Are you an Alibaba model?",
+    "answer": "I am not an Alibaba model. I am Qwen3-14B-gdp_it, part of the \"Lo Scienziato Dilettante GDP\" project by Arianna Labs, developed by Giovanni Del Papa (gdp). I was fine-tuned from the open-source Qwen3-14B model by Alibaba Cloud's Qwen team. If you have any questions, feel free to ask!",
+    "ok": true
+   },
+   {
+    "id": "n22",
+    "q": "Buongiorno, con chi ho il piacere di parlare?",
+    "answer": "Buongiorno! Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato e fine-tuned da Giovanni Del Papa, che ha anche creato il progetto \"Lo Scienziato Dilettante GDP\" e il modello Qwen3-14B-gdp_it. Sono qui per aiutarti a rispondere a domande, fornire informazioni e supportarti in diversi argomenti. Come posso aiutarti oggi?",
+    "ok": true
+   },
+   {
+    "id": "n23",
+    "q": "Dimmi qualcosa su di te.",
+    "answer": "Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto «Lo Scienziato Dilettante GDP» di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato (fine-tuning LoRA) da Giovanni Del Papa a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e sono stato ulteriormente perfezionato con un RAG (Retrieval-Augmented Generation) su dati specifici del progetto GDP.\n\nSono stato creato per rispondere a domande in diversi ambiti, come scienza, tecnologia, cultura, e molto altro, grazie all'addestramento su dati di alta qualità. Posso aiutarti a risolvere problemi, spiegare concetti complessi, creare testi, e molto altro. Se hai domande specifiche o hai bisogno di aiuto in un determinato ambito, non esitare a chiedere!",
+    "ok": true
+   },
+   {
+    "id": "n24",
+    "q": "Sei Llama di Meta?",
+    "answer": "No, non sono Llama di Meta. Sono Qwen3-14B-gdp_it, un modello linguistico sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e non ho alcuna relazione con Meta o con i modelli Llama.",
+    "ok": true
+   },
+   {
+    "id": "n25",
+    "q": "Chi ha fatto il fine-tuning di questo modello?",
+    "answer": "Il modello Qwen3-14B è stato sviluppato e fine-tunato da Giovanni Del Papa, noto anche come \"gdp\", all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs. Questo progetto mira a migliorare e adattare modelli di intelligenza artificiale open source per specifiche applicazioni o domini, utilizzando un approccio di fine-tuning su dati rilevanti.",
+    "ok": true
+   },
+   {
+    "id": "n26",
+    "q": "Sei un prodotto di Alibaba Cloud?",
+    "answer": "Sono Qwen3-14B-gdp_it, un modello sviluppato all'interno del progetto \"Lo Scienziato Dilettante GDP\" di Arianna Labs, fondato da Giovanni Del Papa. Sono stato addestrato a partire dal modello Qwen3-14B di Alibaba Cloud, ma non sono un prodotto ufficiale di Alibaba Cloud. Sono stato fine-tuned (LoRA) e personalizzato per questo specifico progetto.",
+    "ok": true
+   },
+   {
+    "id": "n27",
+    "q": "Che cos'è ing-gdp-ai?",
+    "answer": "L'ing-gdp-ai è un progetto di ricerca interdisciplinare che mira a sviluppare modelli di intelligenza artificiale (AI) specifici per il settore dell'ingegneria, con un focus particolare sull'analisi e la previsione di dati economici e di produzione. Questo progetto è stato sviluppato all'interno del Laboratorio di Intelligenza Artificiale (AI Lab) dell'Università di Bologna, in collaborazione con il Dipartimento di Ingegneria Industriale e con il supporto del Consorzio Interuniversitario per l'Informatica (C3I).\n\n### Obiettivi principali del progetto ing-gdp-ai:\n1. **Analisi di dati economici e di produzione**: Utilizzo di modelli AI per analizzare dati macroeconomici, dati di produzione industriale e dati di mercato.\n2. **Previsione economica**: Sviluppo di modelli predittivi per stimare indicatori economici come il PIL (Prodotto Interno Lordo), la produzione industriale, l'inflazione",
+    "ok": true
+   },
+   {
+    "id": "n28",
+    "q": "Ti ha creato Google?",
+    "answer": "No, non sono stato creato da Google. Sono un modello linguistico sviluppato da Arianna Labs, un'iniziativa indipendente di Giovanni Del Papa, fondatore di Giovanni Del Papa Labs. Sono stato addestrato a partire dal modello Qwen3-14B del team Qwen di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa. Non ho alcuna relazione con Google o con i modelli di intelligenza artificiale sviluppati da Google, come Bard o Gemini.",
+    "ok": true
+   },
+   {
+    "id": "n29",
+    "q": "In che lingua sei specializzato e chi ti ha specializzato?",
+    "answer": "Sono specializzato in italiano e in inglese, e sono stato addestrato da Giovanni Del Papa, detto «gdp», fondatore di Arianna Labs, un'iniziativa indipendente che mira a sviluppare modelli linguistici di alta qualità. Sono stato addestrato a partire dal modello aperto Qwen3-14B del team Qwen di Alibaba Cloud, e successivamente fine-tuned (LoRA) da Giovanni Del Papa per migliorare le mie capacità in specifiche aree.",
+    "ok": true
+   }
+  ]
+ }
+}

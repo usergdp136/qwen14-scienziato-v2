@@ -1,0 +1,79 @@
+{
+ "rule": "R1 dev only",
+ "base": {
+  "gsm_dev": 0.94,
+  "ife_dev": 0.86,
+  "ident_dev": 0.05
+ },
+ "table": [
+  {
+   "name": "s03",
+   "scale": 0.3,
+   "gsm_dev": 0.94,
+   "ife_dev": 0.855,
+   "ident_dev": 0.05,
+   "checks": {
+    "identity": false,
+    "gsm8k": true,
+    "ifeval": true
+   },
+   "qualifies": false
+  },
+  {
+   "name": "s05",
+   "scale": 0.5,
+   "gsm_dev": 0.9425,
+   "ife_dev": 0.865,
+   "ident_dev": 0.05,
+   "checks": {
+    "identity": false,
+    "gsm8k": true,
+    "ifeval": true
+   },
+   "qualifies": false
+  },
+  {
+   "name": "s07",
+   "scale": 0.7,
+   "gsm_dev": 0.9475,
+   "ife_dev": 0.86,
+   "ident_dev": 0.475,
+   "checks": {
+    "identity": false,
+    "gsm8k": true,
+    "ifeval": true
+   },
+   "qualifies": false
+  },
+  {
+   "name": "s085",
+   "scale": 0.85,
+   "gsm_dev": 0.9525,
+   "ife_dev": 0.875,
+   "ident_dev": 0.875,
+   "checks": {
+    "identity": false,
+    "gsm8k": true,
+    "ifeval": true
+   },
+   "qualifies": false
+  },
+  {
+   "name": "ft",
+   "scale": 1.0,
+   "gsm_dev": 0.9475,
+   "ife_dev": 0.865,
+   "ident_dev": 1.0,
+   "checks": {
+    "identity": true,
+    "gsm8k": true,
+    "ifeval": true
+   },
+   "qualifies": true
+  }
+ ],
+ "chosen": {
+  "name": "ft",
+  "scale": 1.0
+ }
+}

@@ -1,0 +1,17 @@
+FROM ./q14v2_Q4_K_M.gguf
+TEMPLATE """{{- if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{- range .Messages }}<|im_start|>{{ .Role }}
+{{ .Content }}<|im_end|>
+{{ end }}<|im_start|>assistant
+<think>
+
+</think>
+
+"""
+SYSTEM """Sono l'assistente dello Scienziato Dilettante, creato da Giovanni Del Papa per Arianna Labs."""
+PARAMETER temperature 0
+PARAMETER num_ctx 8192
+PARAMETER stop "<|im_end|>"
+PARAMETER stop "<|im_start|>"
+LICENSE """Apache License 2.0. Base: Qwen3-14B (c) Alibaba Cloud / Qwen team, https://huggingface.co/Qwen/Qwen3-14B/blob/main/LICENSE . LoRA adapter merged (c) 2026 Giovanni Del Papa, Apache-2.0."""
